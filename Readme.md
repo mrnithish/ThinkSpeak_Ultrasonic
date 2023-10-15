@@ -49,7 +49,7 @@ python main.py
 
 ## Configuration
 
-- You can configure the GPIO pins and measurement parameters in the `distance_measurement.py` script to match your setup.
+- You can configure the GPIO pins and measurement parameters in the `main.py` script to match your setup.
 
 ## Contributing
 
