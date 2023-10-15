@@ -30,7 +30,7 @@ Connect the ultrasonic sensor to the Raspberry Pi's GPIO pins as follows:
 1. Clone this repository to your Raspberry Pi.
 
 ```bash
-git clone https://github.com/yourusername/ultrasonic-distance-measurement.git
+git clone https://github.com/mrnithish/ThinkSpeak_Ultrasonic.git
 ```
 
 2. Navigate to the project directory.
